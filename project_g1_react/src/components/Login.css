@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.SmartHomeGroup1{
+    width:800px;
+    margin-top: 350px;
+    margin-left: -370px;
+
+}
+
+.LoginImage{
+    width:1200px;
+    opacity: 0.60;
+    filter: alpha(opacity=60)
+}
+
+
+.center{
+    font-family: 'Dosis', sans-serif;
+    background-color: #0E2A32;
+    opacity: 0.8;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Login{
+  color: #0E2A32;
+}
+
+.Username{
+    color: #0E2A32;
+}
+
+.card{
+    background-color: #ffffff;
+    width: 250px;
+    border-radius: 25px;
+    padding: 2.0rem;
+    margin-top: -150px;
+    margin-left: -500px;
+}
+
+.card > form{
+    display: flex;
+    flex-direction: column;
+}
+
+.card h1{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.form-item{
+    font-family: 'Dosis', sans-serif;
+    color: #0E2A32;
+    margin-bottom: 2rem;
+    width: 16rem;
+    border: 1px solid grey;
+}
+
+.form-submit{
+    font-family: 'Dosis', sans-serif;
+    height: 35px;
+    color: #fff;
+    background-color: #0E2A32;
+    opacity: 0.6%;
+    border: none;
+    letter-spacing: 0.2rem;
+    transition: 0.3s opacity ease;
+    cursor: pointer;
+}
+.form-submit:hover{
+   opacity: 0.6;
+}
+

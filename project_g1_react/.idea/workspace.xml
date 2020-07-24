@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/menuresponsive.css" line="116" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84190d6e-13e6-484b-b906-6be491e5c3df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project_g1_react" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="46" column="57" lean-forward="true" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console.log</find>
+      <find>react</find>
+      <find>handlec</find>
+      <find>onSubmitTwo</find>
+      <find>/</find>
+      <find>/h</find>
+      <find>push</find>
+      <find>houseGrid</find>
+      <find>menu.png</find>
+      <find>width</find>
+      <find>flex</find>
+      <find>12</find>
+      <find>logo</find>
+      <find>nav-check</find>
+      <find>.button2</find>
+      <find>65</find>
+      <find>nav-btn</find>
+      <find>CurrentTemperature</find>
+      <find>nav-lin</find>
+      <find>nav-links</find>
+      <find>overflow-y</find>
+      <find>DatesDiv</find>
+      <find>ImportRoomsSensorsDiv</find>
+      <find>con</find>
+      <find>temp-desktop</find>
+      <find>margin</find>
+      <find>avg</find>
+      <find>FETCH_HOUSE_MONITORING_CURRENT_TEMPERATURE_SUCCESS</find>
+      <find>console</find>
+      <find>rainfall</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui108/actionFetchSensorsByLink.js" />
+        <option value="$PROJECT_DIR$/src/reducers/roomSensorsReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui108/UI108RoomsAttributes.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui147/UI147PushBack.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui623/ButtonRFA.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui623/RainfallAvgInPeriod.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/HouseMonitoring.js" />
+        <option value="$PROJECT_DIR$/src/actions/actionsUI147RoomsWithoutGrid.js" />
+        <option value="$PROJECT_DIR$/src/actions/actionsHouseGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui630/LastColdestDayInPeriod.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui149/UI149SeeHouseGrids.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui149/UI149SeeRoomsWithoutGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui147/UI147SeeRoomsWithoutGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui610/UI610getMaxTempRooms.js" />
+        <option value="$PROJECT_DIR$/src/components/roomconfiguration/ui250/UI250ListOfSensorsInRoom.js" />
+        <option value="$PROJECT_DIR$/src/components/roomconfiguration/ui250/UI250RoomsAttributes.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui011/UI011RemoveSensorOfGA.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui011/UI011SelectGeoArea.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui149/DetachRoomFromGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui147/UI147AttachRoomToGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/roomconfiguration/ui253/UI253AddSensorToRoom.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui149/UI149DettachRoomToGrid.js" />
+        <option value="$PROJECT_DIR$/src/components/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui633/UI633Button.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui015/UI015ImportGAandSensorsFromFile.js" />
+        <option value="$PROJECT_DIR$/src/components/Login.js" />
+        <option value="$PROJECT_DIR$/src/components/roomconfiguration/ui265/UI265ImportSensorsReadingsOfRoom.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui620/RainfallSumInDay.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui623/UI623RainfallAvgInTimePeriod.js" />
+        <option value="$PROJECT_DIR$/src/menuresponsive.css" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui020/UI020Button.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui020/actionImportSensorReadingsOfGA.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui100/UI100ImportHouseFromFile.js" />
+        <option value="$PROJECT_DIR$/src/components/roomconfiguration/ui260/UI260ImportRoomSensorsFromFile.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui600/UI600CurrentTemperatureInHouseArea.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/HouseConfiguration.js" />
+        <option value="$PROJECT_DIR$/src/components/AuthService.js" />
+        <option value="$PROJECT_DIR$/src/actions/actionsHouseConfiguration.js" />
+        <option value="$PROJECT_DIR$/src/components/roomconfiguration/ui260/UI260Button.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui015/UI015Button.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui100/UI100Button.js" />
+        <option value="$PROJECT_DIR$/src/components/roomconfiguration/ui265/UI265Button.js" />
+        <option value="$PROJECT_DIR$/src/reducers/houseMonitoringReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/housemonitoring/ui620/RainfallAvgInPeriod.js" />
+        <option value="$PROJECT_DIR$/src/components/houseconfiguration/ui101/ConfigureHouseLocation.js" />
+        <option value="$PROJECT_DIR$/src/reducers/houseConfigurationReducer.js" />
+        <option value="$PROJECT_DIR$/src/actions/actionsHouseMonitoring.js" />
+        <option value="$PROJECT_DIR$/src/components/housemanagement/ui440-445/UI440-445SelectAttributes.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Home.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="25" />
+    <option name="width" value="1205" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reactProj23_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactProj23_06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactProj23_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactProj23_06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactProj23_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactProj23_06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactProj23_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactProj23_06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="housemonitoring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559846185330" />
+    <property name="last_opened_file_path" value="C:/DiretorioDevops/Devops Trabalhos/CA2/Part1/luisnogueira-gradle_basic_demo-fef780d15427" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/imgs" />
+      <recent name="C:\Users\driii\Documents\project_g1_react\public" />
+      <recent name="C:\Users\driii\Documents\project_g1_react\src\imgs" />
+      <recent name="C:\Users\Vinicius\IdeaProjects\project_g1_react\src\components\roomconfiguration" />
+      <recent name="C:\Users\driii\Documents\project_g1_react\src\components\housemonitoring\ui605" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Documents\project_g1_react\src\components" />
+      <recent name="C:\Users\Vinicius\IdeaProjects\project_g1_react\src\components\roomconfiguration\ui265" />
+      <recent name="C:\Users\ricar\IdeaProjects\project_g1_react\src\components\houseconfiguration" />
+      <recent name="C:\Users\Vinicius\IdeaProjects\project_g1_react\src\components\houseconfiguration\ui100" />
+      <recent name="C:\Users\Vinicius\IdeaProjects\project_g1_react\src\actions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UI011ListOfSensorsToRemove.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/houseconfiguration/ui011/UI011ListOfSensorsToRemove.js" working-dir="$PROJECT_DIR$/src/components/houseconfiguration/ui011">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.UI011ListOfSensorsToRemove.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84190d6e-13e6-484b-b906-6be491e5c3df" name="Default Changelist" comment="" />
+      <created>1559382423417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559382423417</updated>
+      <workItem from="1559382425875" duration="7816000" />
+      <workItem from="1559495854930" duration="423000" />
+      <workItem from="1559569510002" duration="1544000" />
+      <workItem from="1559581703905" duration="1209000" />
+      <workItem from="1559589043547" duration="763000" />
+      <workItem from="1559637047509" duration="7506000" />
+      <workItem from="1559749686776" duration="4469000" />
+      <workItem from="1559813620258" duration="8420000" />
+      <workItem from="1559897950839" duration="4658000" />
+      <workItem from="1560015418930" duration="128000" />
+      <workItem from="1560015611979" duration="50000" />
+      <workItem from="1560015724337" duration="132000" />
+      <workItem from="1560015888878" duration="765000" />
+      <workItem from="1560029866316" duration="597000" />
+      <workItem from="1560173706315" duration="1379000" />
+      <workItem from="1560242408603" duration="2132000" />
+      <workItem from="1560260278693" duration="22094000" />
+      <workItem from="1560286423472" duration="10152000" />
+      <workItem from="1560375931861" duration="2426000" />
+      <workItem from="1560422769796" duration="468000" />
+      <workItem from="1560498248044" duration="11457000" />
+      <workItem from="1560517926822" duration="1373000" />
+      <workItem from="1560611126899" duration="1145000" />
+      <workItem from="1560761352822" duration="8034000" />
+      <workItem from="1560783666305" duration="1313000" />
+      <workItem from="1560785636348" duration="1324000" />
+      <workItem from="1560792520702" duration="1509000" />
+      <workItem from="1560795074159" duration="1840000" />
+      <workItem from="1560798742102" duration="8222000" />
+      <workItem from="1560843466082" duration="1807000" />
+      <workItem from="1560875588753" duration="12227000" />
+      <workItem from="1560936866727" duration="3028000" />
+      <workItem from="1560941469852" duration="9754000" />
+      <workItem from="1560957342588" duration="683000" />
+      <workItem from="1560958177878" duration="125000" />
+      <workItem from="1560958350639" duration="11708000" />
+      <workItem from="1561019264374" duration="17319000" />
+      <workItem from="1561108826628" duration="9089000" />
+      <workItem from="1561320214582" duration="9785000" />
+      <workItem from="1561384906252" duration="9571000" />
+      <workItem from="1561402221732" duration="1968000" />
+      <workItem from="1561411120279" duration="4899000" />
+      <workItem from="1561452781489" duration="6600000" />
+      <workItem from="1561501436240" duration="560000" />
+      <workItem from="1561537597463" duration="182000" />
+      <workItem from="1561547685397" duration="644000" />
+      <workItem from="1561832585693" duration="1856000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixes combine of reducers">
+      <created>1559492507980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559492507980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Home page with header">
+      <created>1559561264935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559561264935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="General Updates">
+      <created>1559568053858</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559568053858</updated>
+    </task>
+    <task id="LOCAL-00004" summary="General Updates">
+      <created>1559574449715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559574449715</updated>
+    </task>
+    <task id="LOCAL-00005" summary="General Updates">
+      <created>1559575748198</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559575748198</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update login">
+      <created>1559732832084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559732832084</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update on HouseConfiguration menu and NavBar">
+      <created>1559734885899</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559734885899</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update on name of houseMonitoringReducer">
+      <created>1559741867723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559741867723</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update on name of houseMonitoringReducer">
+      <created>1559742176170</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559742176170</updated>
+    </task>
+    <task id="LOCAL-00010" summary="us147 UNfinished">
+      <created>1559750487833</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559750487834</updated>
+    </task>
+    <task id="LOCAL-00011" summary="us147 UNfinished">
+      <created>1559753614607</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1559753614607</updated>
+    </task>
+    <task id="LOCAL-00012" summary="auth corrections">
+      <created>1559825911769</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1559825911769</updated>
+    </task>
+    <task id="LOCAL-00013" summary="corrections">
+      <created>1559826036410</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559826036410</updated>
+    </task>
+    <task id="LOCAL-00014" summary="US109 EditRoom update">
+      <created>1559836635977</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1559836635977</updated>
+    </task>
+    <task id="LOCAL-00015" summary="US109 EditRoom update">
+      <created>1559848419102</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1559848419102</updated>
+    </task>
+    <task id="LOCAL-00016" summary="index CSS">
+      <created>1559850057661</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1559850057661</updated>
+    </task>
+    <task id="LOCAL-00017" summary="UI 011 implements">
+      <created>1560285501441</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560285501441</updated>
+    </task>
+    <task id="LOCAL-00018" summary="UI 147 corrections">
+      <created>1560350345238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560350345238</updated>
+    </task>
+    <task id="LOCAL-00019" summary="UI 015 import AG and sensors">
+      <created>1560421219426</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560421219426</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Implement ConfigureHouseLocation UI - needs testing">
+      <created>1560452625532</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1560452625533</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updating ConfigureHouseLocation, only need to fix action on axios headers">
+      <created>1560454203300</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1560454203300</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Updating ConfigureHouseLocation, functional but in need of more error control, cleaning and testing">
+      <created>1560458522921</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1560458522921</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Updating ConfigureHouseLocation">
+      <created>1560510657086</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1560510657087</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Modifications on Design - User story 620 and 260">
+      <created>1560619040373</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1560619040373</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Home Design">
+      <created>1560767662181</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1560767662181</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update on UI 100 and UI 260">
+      <created>1560771752995</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1560771752995</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update settings">
+      <created>1560784126591</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1560784126591</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added localtime in home">
+      <created>1560800880471</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1560800880486</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Implemented UI253AddSensorToRoom - Functional">
+      <created>1560805937316</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1560805937316</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Updating UI253AddSensorToRoom with a dropdown for sensor types">
+      <created>1560808958319</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1560808958319</updated>
+    </task>
+    <task id="LOCAL-00031" summary="US147 and US149 - Work in progress...">
+      <created>1560858326184</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1560858326184</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Implemented RainfallAvgInPeriod - Functional - In need of backend fix">
+      <created>1560881510812</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1560881510812</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Implementing DetachRoomFromGrid needs work">
+      <created>1560887061930</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1560887061930</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Implemented DetachRoomFromGrid - functional">
+      <created>1560889337430</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1560889337430</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Updating Navbar with RoomOwner permissions">
+      <created>1560941533562</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1560941533562</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Responsive layout (css) - work in progress...">
+      <created>1560971098780</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1560971098781</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update on UI440-445SelectAttributes">
+      <created>1561114564761</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1561114564761</updated>
+    </task>
+    <task id="LOCAL-00038" summary="updatez">
+      <created>1561117915382</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1561117915382</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update enter event on classes">
+      <created>1561125885488</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1561125885489</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Removed memory leak warning from console">
+      <created>1561322527336</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1561322527336</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Updating Configure Class Location and removing random console commands throughout the app">
+      <created>1561327142258</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1561327142258</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Updating story">
+      <created>1561335750348</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1561335750348</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Updating admin story">
+      <created>1561396977391</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1561396977391</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Updating story">
+      <created>1561401817848</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1561401817848</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Updating story">
+      <created>1561415676478</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1561415676478</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Updating output on UI440-445">
+      <created>1561457321325</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1561457321325</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Updating output of story">
+      <created>1561537757595</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1561537757595</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="314754000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50147927" side_tool="true" weight="0.2536913" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4985207" visible="true" weight="0.15637584" />
+      <window_info id="Structure" order="6" sideWeight="0.50147927" side_tool="true" weight="0.2536913" />
+      <window_info id="Azure Explorer" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.407932" />
+      <window_info anchor="bottom" x="28" y="401" width="1490" height="269" id="Terminal" order="1" visible="true" weight="0.19971672" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.31303117" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32577905" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32569557" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="13" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="14" />
+      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" order="15" />
+      <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="16" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="PlantUML" order="6" weight="0.3295302" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24966443" />
+      <window_info anchor="right" id="Remote Host" order="10" weight="0.32980332" />
+      <window_info anchor="right" x="22" y="261" width="1237" height="199" id="Event Log" order="11" weight="0.3294702" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50147927" side_tool="true" weight="0.2536913" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4985207" visible="true" weight="0.15637584" />
+      <window_info id="Structure" order="6" sideWeight="0.50147927" side_tool="true" weight="0.2536913" />
+      <window_info id="Azure Explorer" order="7" weight="0.3295302" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.407932" />
+      <window_info active="true" anchor="bottom" x="28" y="401" width="1490" height="269" id="Terminal" order="1" visible="true" weight="0.19971672" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.31303117" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32577905" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32569557" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="13" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="14" />
+      <window_info anchor="bottom" id="Debug Remote Spark Job in Cluster" order="15" />
+      <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="16" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="PlantUML" order="6" weight="0.3295302" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24966443" />
+      <window_info anchor="right" id="Remote Host" order="10" weight="0.32980332" />
+      <window_info anchor="right" x="22" y="261" width="1237" height="199" id="Event Log" order="11" weight="0.3294702" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating ConfigureHouseLocation, only need to fix action on axios headers" />
+    <MESSAGE value="Updating ConfigureHouseLocation, functional but in need of more error control, cleaning and testing" />
+    <MESSAGE value="Updating ConfigureHouseLocation" />
+    <MESSAGE value="Modifications on Design - User story 620 and 260" />
+    <MESSAGE value="Home Design" />
+    <MESSAGE value="update on UI 100 and UI 260" />
+    <MESSAGE value="update settings" />
+    <MESSAGE value="Added localtime in home" />
+    <MESSAGE value="Implemented UI253AddSensorToRoom - Functional" />
+    <MESSAGE value="Updating UI253AddSensorToRoom with a dropdown for sensor types" />
+    <MESSAGE value="US147 and US149 - Work in progress..." />
+    <MESSAGE value="Implemented RainfallAvgInPeriod - Functional - In need of backend fix" />
+    <MESSAGE value="Implementing DetachRoomFromGrid needs work" />
+    <MESSAGE value="Implemented DetachRoomFromGrid - functional" />
+    <MESSAGE value="Updating Navbar with RoomOwner permissions" />
+    <MESSAGE value="Responsive layout (css) - work in progress..." />
+    <MESSAGE value="update on UI440-445SelectAttributes" />
+    <MESSAGE value="updatez" />
+    <MESSAGE value="update enter event on classes" />
+    <MESSAGE value="Removed memory leak warning from console" />
+    <MESSAGE value="Updating Configure Class Location and removing random console commands throughout the app" />
+    <MESSAGE value="Updating admin story" />
+    <MESSAGE value="Updating story" />
+    <MESSAGE value="Updating output on UI440-445" />
+    <MESSAGE value="Updating output of story" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating output of story" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui020/UI020Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="103" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui015/actionImportGAandSensors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui011/actionFetchGeographicAreas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="89" lean-forward="true" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui109/UI109RoomsAttributes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui109/UI109CollasibleButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui109/UI109EditRoom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui108/UI108Rooms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemonitoring/HouseMonitoring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="506" column="16" selection-start-line="506" selection-start-column="16" selection-end-line="506" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemonitoring/ui623/ButtonRFA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemonitoring/ui623/UI623RainfallAvgInTimePeriod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemanagement/HouseManagement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemonitoring/ui600/UI600CurrentTemperatureInHouseArea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AuthService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/HouseConfiguration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/roomSensorsReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <folding>
+            <element signature="e#0#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui260/actionImportRoomSensors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui260/UI260ImportRoomSensorsFromFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui260/UI260Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="88" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui015/UI015ImportGAandSensorsFromFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui015/UI015Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui100/UI100ImportHouseFromFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui100/UI100Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui265/UI265ImportSensorsReadingsOfRoom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui265/UI265Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/houseMonitoringReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/actionsHouseConfiguration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui101/ConfigureHouseLocation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="124" column="30" selection-start-line="124" selection-start-column="30" selection-end-line="124" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/houseManagementReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemonitoring/ui620/RainfallAvgInPeriod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/actionsHouseMonitoring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="212" column="30" lean-forward="true" selection-start-line="212" selection-start-column="22" selection-end-line="212" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/houseConfigurationReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemanagement/ui440-445/UI440-445RoomComfortLevel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/housemanagement/ui440-445/UI440-445SelectAttributes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="107" column="67" selection-start-line="107" selection-start-column="67" selection-end-line="107" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="14583" column="33" lean-forward="true" selection-start-line="14583" selection-start-column="33" selection-end-line="14583" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1615">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/azureSettings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7831">
+          <caret line="468" column="16" selection-start-line="468" selection-start-column="16" selection-end-line="468" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/menuresponsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="230" column="1" lean-forward="true" selection-start-line="230" selection-start-column="1" selection-end-line="230" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui020/actionImportSensorReadingsOfGA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui250/UI250CollasibleButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui250/UI250ListOfSensorsInRoom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/actionSensorsInRoom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/roomconfiguration/ui250/UI250RoomsAttributes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/houseconfiguration/ui145/UI145ListOfRoomsAsString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="46" column="57" lean-forward="true" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_192</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

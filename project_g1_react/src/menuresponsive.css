@@ -1,0 +1,425 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+
+
+.nav {
+    height: 55px;
+    width: 100%;
+    background-color: #0E2A32;
+    opacity: 0.75;
+    filter: alpha(opacity=75);
+    position: relative;
+}
+
+.nav > .nav-header {
+    display: inline;
+}
+
+.nav > .nav-header > .nav-title {
+    display: inline-block;
+    font-size: 22px;
+    color: #fff;
+    padding: 10px 20px 10px 10px;
+}
+
+.nav > .nav-btn {
+    display: none;
+}
+
+.nav > .nav-links {
+    display: inline;
+    float: right;
+    font-size: 18px;
+}
+
+.nav > .nav-links > a {
+    display: inline-block;
+    padding: 13px 20px 13px 20px;
+    text-decoration: none;
+    color: #efefef;
+}
+
+/* --- */
+
+/*h5{
+    border: 1px red solid;
+}
+
+.ComfortLevelDiv{
+    margin-top: 0px;
+    max-height: 350px;
+}*/
+
+/*nav-links > a:active{
+    overflow-y: hidden;
+    height: 0px;
+    display: none;
+    opacity: 0.0;
+}*/
+
+.button2{
+    line-height: 1.6;
+}
+
+.button2:hover{
+    background-color: #0E2A32;
+    opacity: 0.75;
+    filter: alpha(opacity=75);
+}
+
+label{
+    margin-left: 45px;
+    padding-top: 15px;
+    width: 90%;
+}
+
+label > input{
+    width: 95% !important;
+    position: relative;
+    margin-left: 45px !important;
+}
+
+input{
+    width: 95% !important;
+}
+
+p{
+    margin-left: 45px;
+    padding-top: 15px;
+    width: 90%;
+}
+
+div > input{
+    width: 90%;
+    position: relative;
+    margin-left: 45px !important;
+}
+
+.Collapsible__contentOuter{
+    /*margin-top: -50px;
+    margin-bottom: 20px;*/
+    margin-left: 0;
+    width: 80%;
+
+}
+
+.Collapsible__trigger {
+    font-size: medium;
+    cursor: pointer;
+    border: 1px #e6e2de solid;
+    padding: 5px 5px 3px 5px;
+    background-color: #f5f3f1;
+}
+
+.Collapsible__contentInner{
+   margin-top: -50px;
+}
+
+.Collapsible > .Collapsible__contentOuter > .Collapsible__contentInner {
+    float: left;
+    margin-left: -30px;
+    padding: 0;
+}
+
+button{
+    margin-left: 45px;
+}
+
+.nav{
+    margin-bottom: 35px;
+    z-index: 20;
+}
+
+
+
+/* --- */
+
+.nav > .nav-links > a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.nav > #nav-check {
+    display: none;
+}
+
+#temp-desktop{
+
+    margin-top: 180px;
+    margin-left: -580px;
+}
+
+.RealTime {
+    margin-top: -330px;
+    margin-left: 185px;
+}
+
+.DatesDiv{
+    margin-top: -360px;
+}
+
+#show{
+    padding-left: 55px;
+}
+
+.browser-default{
+    margin-left: 45px;
+    width: 80%;
+    background-color: #fffaf6;
+}
+
+.AddSensorToRoomDiv{
+    margin-left: -150px;
+    width: 100%;
+}
+
+.App > label {
+    width: 80%;
+}
+
+h5{
+    margin-left: 50px;
+}
+
+.CurrentTemperature{
+    margin-left: 1230px;
+    margin-top: -300px;
+}
+
+.CurrentTemperatureUnit{
+    margin-left: 1630px;
+    margin-top: -300px;
+}
+
+.TemperatureIMG{
+    margin-left: 1170px;
+    margin-top: -400px;
+    width: 70px;
+    height: 150px;
+    position: absolute;
+}
+
+.RealTime{
+    margin-top: -220px;
+}
+
+.HomeDiv{
+    width: 800px;
+}
+
+/* ------ XZ ------ */
+
+.nav-links:active {
+    /*cursor: pointer;
+    opacity: 0.0 !important;
+    visibility: hidden !important;
+    overflow-y: hidden !important;
+    height: 0 !important;
+    display: none;*/
+    /*z-index: 0 !important;
+    transition: opacity 1s ease 0s !important;*/
+}
+
+/* ----- */
+
+@media (max-width:1200px) {
+
+    #result{
+        padding-left: 70px;
+    }
+
+    .ConfigureLocationHouseDiv{
+        margin-left: -150px;
+        width: 100%;
+    }
+
+    .ImportRoomsSensorsDiv, .ImportSensorsReadingsDiv{
+        max-width: 850px;
+        margin-left: -200px;
+    }
+
+    .DatesDiv{
+        /*border: 1px red solid;*/
+        position: absolute;
+        margin-top: -570px;
+        margin-left: -600px;
+    }
+
+    .Div-Total-Rainfall{
+        margin-left: -200px;
+        max-width: 500px;
+    }
+
+    .ComfortLevelDiv{
+        height: 1000px;
+        /*border: 1px green solid;*/
+        position: relative;
+        margin-top: 280px;
+        margin-left: -130px;
+    }
+
+    .ButtonComfortLevel{
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .button2 {
+        margin-left: -100px;
+        text-align: left;
+        font-size: small;
+        width: 100%;
+    }
+
+    .nav > .nav-btn {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .nav > .nav-btn > label {
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        padding: 13px;
+    }
+    .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+        background-color: rgba(0, 0, 0, 0.3);
+    }
+    .nav > .nav-btn > label > span {
+        display: block;
+        width: 25px;
+        height: 10px;
+        border-top: 2px solid #eee;
+    }
+    .nav > .nav-links {
+        position: absolute;
+        display: block;
+        width: 100%;
+        background-color: #333;
+        height: 0;
+        transition: all 0.3s ease-in;
+        overflow-y: hidden;
+        top: 50px;
+        left: 0;
+
+    }
+    .nav > .nav-links > a {
+        display: block;
+        width: 100%;
+    }
+    .nav > #nav-check:not(:checked) ~ .nav-links {
+        height: 0;
+    }
+    .nav > #nav-check:checked ~ .nav-links {
+        height: calc(100vh - 50px);
+        overflow-y: auto;
+    }
+
+    /* --- */
+
+    #temp-desktop{
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .SmartHome {
+        margin-left: -70px;
+        max-width: 290px;
+        position: absolute;
+        margin-top: 20px;
+        z-index: -20;
+    }
+
+    .RealTime{
+        margin-top: 220px;
+        margin-left: 75px;
+        position: absolute;
+    }
+
+    .LoggedAs{
+        margin-left: 75px;
+        position: absolute;
+        margin-top: 290px;
+        position: absolute;
+    }
+
+    .TitleHome {
+        margin-left: 95px;
+        margin-top: 390px;
+        position: absolute;
+        /*margin-top: 200px;*/
+    }
+
+    .TemperatureIMG{
+        /*margin-left: 50px;
+        margin-top: 405px;*/
+        margin: 405px 0 0 50px;
+        position: absolute;
+    }
+
+    .CurrentTemperature{
+        font-family: 'Dosis', sans-serif;
+        position: absolute;
+        margin-top: 505px;
+        margin-left: 110px;
+        font-size: 20px;
+    }
+
+    .CurrentTemperatureUnit{
+        margin-left: 435px;
+        margin-top: 505px;
+        font-size: 20px;
+    }
+    /* --- */
+}
+
+@media (max-width:950px) {
+    .button2 {
+        margin-left: -100px;
+        text-align: left;
+        font-size: 12px;
+        width: 100%;
+        line-height: 1.6;
+
+    }
+    .ImportRoomsSensorsDiv, .ImportSensorsReadingsDiv{
+        max-width: 650px;
+    }
+}
+
+@media (max-width:450px) {
+    .button2 {
+        width: 280px;
+        margin-left: -160px;
+        height: auto;
+    }
+    .ImportRoomsSensorsDiv, .ImportSensorsReadingsDiv{
+        max-width: 550px;
+    }
+}
+
+@media (max-width:350px) {
+    .button2 {
+        width: 250px;
+        margin-left: -160px;
+        height: auto;
+    }
+}
+
+@media (max-width:300px) {
+    .button2 {
+        width: 220px;
+        margin-left: -180px;
+        height: auto;
+    }
+}

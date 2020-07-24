@@ -1,0 +1,661 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+.button1{
+    height: 65px;
+    background-color: #0E2A32;
+    width: 900px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.button1:hover{
+    color: #0E2A32;
+    background-color: #FFFFFF;
+
+}
+
+
+.button2{
+    min-height: 65px;
+    color: #0E2A32;
+    background-color: white;
+    width: 900px;
+    margin-bottom: 30px;
+    font-weight: bold;
+
+}
+
+.button2:hover{
+    color: white;
+    background-color: #0E2A32;
+    opacity: 0.7%;
+    filter: alpha(opacity=70);
+
+}
+
+.collapse-css-transition {
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+}
+
+
+h1, h2, h3, h4 {
+    padding: 40px 0px 0px 0px;
+    margin: auto;
+    width: 85%;
+    font-family: 'Dosis', sans-serif;
+}
+
+h1{
+    color: grey;
+}
+
+form h1{
+    color: #1565c0;
+}
+
+table {
+    margin: 45px 45px 45px 100px;
+    width: 85%;
+}
+
+.btn{
+    line-height: 0px;
+}
+
+form h1{
+    margin: auto;
+    width: 41%;  
+}
+
+.form-group{
+    padding: 10px 0px 0px 0px;
+    margin: auto;
+    width: 40%;
+}
+
+#div_table{
+    margin-top: 100px;
+}
+
+td .btn {
+    background-color: #1565c0;
+}
+
+#data_info{
+    opacity: 0.5;
+    width: 35px;
+    height: 35px;
+    margin: 5px 5px 5px 0px;
+    margin-right: 15px;}
+
+/* ------------------------------------------------- NAV BAR PAGE -----------------------------------------------------*/
+
+.NavBar{
+    background-color: #0E2A32;
+    opacity: 0.75;
+    filter: alpha(opacity=75)
+}
+
+/* ///////// */
+
+
+
+/* //////// */
+
+
+.brand-logo{
+    margin-left : 100px;
+}
+
+.slash{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.right{
+    margin-left : 5px;
+
+}
+
+.Home{
+    margin-left: -70px;
+
+}
+
+.HouseManagementMenu{
+    margin-top : 50px;
+    margin-left: 220px;
+
+}
+
+.titleHouseManagement{
+    margin-left: 280px;
+    margin-bottom:50px;
+
+}
+
+.HouseConfigurationMenu{
+    margin-top : 50px;
+    margin-left: 220px;
+
+}
+
+.HouseMonitoringMenu{
+    margin-top : 50px;
+    margin-left: 220px;
+
+}
+
+.RoomConfigurationMenu{
+    margin-top : 50px;
+    margin-left: 220px;
+}
+
+
+
+.titleHouseMonitoring{
+    margin-left: 280px;
+    margin-bottom:50px;
+
+}
+
+
+/* -------------------------------------------------- HOME PAGE -----------------------------------------------------*/
+
+
+.SmartHomeDiv{
+    margin-left: 120px;
+}
+
+.SmartHome{
+    margin-top: -150px;
+    width:400px;
+}
+
+.RealTime{
+    margin-left: 200px;
+    font-color: #0E2A32;
+    margin-top: -100px;
+
+}
+
+.LoggedAs{
+    margin-left: 180px;
+    font-color: #0E2A32;
+
+}
+
+.HomeDiv{
+    font-color: #0E2A32;
+
+}
+
+.TitleHome{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 670px;
+    width: 200px;
+    height: 100px;
+
+}
+
+.CurrentTemperature{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 900px;
+    position: absolute;
+    width : 600px;
+    height: 50px;
+}
+
+.CurrentTemperatureUnit{
+    font-family: 'Dosis', sans-serif;
+    font-size: 23px;
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 1625px;
+    font-color: #0E2A32;
+    font-weight: bolder;
+    width : 100px;
+    height: 50px;
+
+}
+
+.TemperatureIMG{
+    width:550px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 50px;
+    padding-top: 80px;
+
+}
+
+.LoggedAs{
+    margin-left: 610px;
+    margin-top: 50px;
+
+
+}
+
+.TitleAddress{
+    font-family: 'Dosis', sans-serif;
+    margin-left: 650px;
+    position: absolute;
+    margin-top: -450px;
+}
+
+.Address{
+    font-family: 'Dosis', sans-serif;
+    font-size: 25px;
+    margin-left: 650px;
+    position: absolute;
+    margin-top: -398px;
+    margin-left: 885px;
+}
+/* ------------------------------------ US605- CURRENT TEMPERATURE IN ROOM -------------------------------------------*/
+
+.Div-CurrentTemperature-Room{
+    padding-left: 150px;
+    margin-top:50px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    width: 900px;
+}
+
+.ButtonCurTemperatureRoom{
+    margin-top:50px;
+    height: 30px;
+    background-color:#8d8d8d;
+    width: 200px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.h5CurTemperature{
+    margin-top: 50px;
+}
+/* -------------------------------------- US620 - TOTAL RAINFALL------------------------------------------------------*/
+
+.Div-Total-Rainfall{
+    padding-left: 200px;
+    margin-top:30px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    width: 800px;
+
+}
+
+.TitleTotalRainfall{
+    margin-bottom: 30px;
+}
+
+.ButtonRainfall:hover{
+    height: 30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.ButtonRainfall{
+    height:30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.ResultRainfall{
+    font-size: 20px;
+}
+
+.imgRainfall{
+    width: 50px;
+    margin-left: 20px;
+    margin-bottom: -15px;
+}
+
+
+/* ------------------------------- US260 - IMPORT SENSORS FOR THE HOUSE ROOMS ----------------------------------------*/
+
+.ImportRoomsSensorsDiv{
+    padding-left: 200px;
+    margin-top:30px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    width: 800px;
+}
+
+.Button260{
+    height:30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.Button260:hover{
+    height: 30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+
+}
+
+.File{
+    width: 40px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: -15px;
+}
+
+/* ------------------------------- US265 - IMPORT SENSORS READINGS ----------------------------------------*/
+
+.ImportSensorsReadingsDiv{
+    padding-left: 200px;
+    margin-top:30px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    width: 800px;
+}
+
+.File{
+    width: 40px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: -15px;
+}
+
+.Button265{
+    height:30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.Button265:hover{
+    height: 30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+/* ------------------------------- US101- CONFIGURE LOCATION OF HOUSE ----------------------------------------*/
+
+.ConfigureLocationHouseDiv{
+    padding-left: 200px;
+    margin-top:30px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    width: 800px;
+}
+
+.Button101{
+    height:30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.Button101:hover{
+    height: 30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+/* ---------------------------------------- US253 - ADD SENSOR TO ROOM  ---------------------------------------------*/
+
+.AddSensorToRoomDiv{
+    padding-left: 200px;
+    margin-top:60px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    width: 800px;
+}
+
+.TitleOfChosenRoom{
+    margin-bottom: 40px
+}
+
+.Button253{
+    height:30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+
+.Button253:hover{
+    height: 30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+
+/* ---------------------------------------- US440/445 - COMFORT LEVEL  -----------------------------------------------*/
+
+.ComfortLevelDiv{
+    padding-left: 180px;
+    margin-top:60px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    width: 600px;
+}
+
+.DatesDiv{
+    padding-left: 600px;
+    margin-top: -345px;
+    margin-bottom:40px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    width: 900px;
+
+}
+
+.TitleOptionComfortLevel , .TitleChooseRoom, .TitleCategory{
+    margin-bottom: 30px;
+
+}
+
+.ButtonComfortLevel{
+    height:30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-top: 180px;
+    margin-left: 400px;
+}
+
+.ButtonComfortLevel:hover{
+    height: 30px;
+    background-color:#8d8d8d;
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+/* ------------------------------------ US147 - ATTACH ROOM TO HOUSE GRID  -------------------------------------------*/
+
+#table_view{
+    border: 1px #D3D3D3 solid;
+    width: 50%;
+}
+
+#table_view td{
+    border-left: 1px #D3D3D3 solid;
+}
+
+#maxwidth{
+    width: 320px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    color: grey;
+}
+
+#grid, #room{
+    height: 55px;
+}
+
+#select_test{
+    color: red;
+}
+
+.myButton {
+    width: 100%;
+    -moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
+    -webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
+    box-shadow: 0px 0px 0px 2px #9fb4f2;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7892c2), color-stop(1, #476e9e));
+    background:-moz-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background:-webkit-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background:-o-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background:-ms-linear-gradient(top, #7892c2 5%, #476e9e 100%);
+    background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e',GradientType=0);
+    background-color:#7892c2;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    border:1px solid #4e6096;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:16px;
+    padding:12px 25px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #476e9e), color-stop(1, #7892c2));
+    background:-moz-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+    background:-webkit-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+    background:-o-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+    background:-ms-linear-gradient(top, #476e9e 5%, #7892c2 100%);
+    background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#476e9e', endColorstr='#7892c2',GradientType=0);
+    background-color:#476e9e;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
+#borderspace + .myButton:focus {
+    color:red !important;
+    font-family:Arial;
+    font-size:18px;
+    background: red;
+}
+
+.myButtonGreen {
+    -moz-box-shadow: 0px 0px 0px 2px #3dc21b;
+    -webkit-box-shadow: 0px 0px 0px 2px #3dc21b;
+    box-shadow: 0px 0px 0px 2px #3dc21b;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #44c767), color-stop(1, #5cbf2a));
+    background:-moz-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+    background:-webkit-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+    background:-o-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+    background:-ms-linear-gradient(top, #44c767 5%, #5cbf2a 100%);
+    background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#44c767', endColorstr='#5cbf2a',GradientType=0);
+    background-color:#44c767;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:19px;
+    padding:12px 37px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+
+.myButtonRed {
+    -moz-box-shadow:inset 0px 39px 7px -24px #e67a73;
+    -webkit-box-shadow:inset 0px 39px 7px -24px #e67a73;
+    box-shadow:inset 0px 39px 7px -24px #e67a73;
+    background-color:#e4685d;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    border-radius:4px;
+    border:1px solid #ffffff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    padding:6px 15px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #b23e35;
+}
+.myButtonRed:hover {
+    background-color:#eb675e;
+}
+.myButtonRed:active {
+    position:relative;
+    top:1px;
+}
+
+#text_center{
+    text-align: center;
+}
+
+#grid{
+    text-align: center;
+}
+
+.myButtonGreen:hover {
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #5cbf2a), color-stop(1, #44c767));
+    background:-moz-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+    background:-webkit-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+    background:-o-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+    background:-ms-linear-gradient(top, #5cbf2a 5%, #44c767 100%);
+    background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#5cbf2a', endColorstr='#44c767',GradientType=0);
+    background-color:#5cbf2a;
+}
+.myButtonGreen:active {
+    position:relative;
+    top:1px;
+}
+
+#borderspace{
+    margin: 10px;
+}
+
+
+.Title Total Rainfall{
+
+
+}
+
+
